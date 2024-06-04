@@ -1,2 +1,2 @@
 # PointCloudClassification
-PointCloud and ResNet for Shape Recognition
+PointCloud and ResNet implementation for Shape Recognition
